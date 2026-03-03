@@ -10,8 +10,7 @@ Criar um avatar digital que seja visualmente convincente e capaz de comunicar me
 
 ## 🛠️ Tecnologias Utilizadas
 * **ChatGPT (OpenAI):** Para refinamento do roteiro e estruturação dos prompts.
-* **Leonardo AI / Midjourney:** Para criação da base visual (avatar realista).
-* **HeyGen / D-ID:** Para animação, sincronia labial (lip-sync) e fluência em português.
+* **Hey Gen:** Para criação da base visual (avatar realista, animação, sincronia labial (lip-sync) e fluência em português.
 * **CapCut:** Para edição final e ajustes do vídeo.
 
 ## 👩‍💻 A Persona: Vivi Tech
