@@ -2,11 +2,6 @@
 
 "Explorando os limites da IA Generativa com um clone digital realista. Projeto oficial para o desafio 'Natural ou Fake Naty?' como embaixadora da maior plataforma tech da América Latina."
 
-## 🎬 Veja o Resultado
-https://github.com/user-attachments/assets/COLE-AQUI-O-LINK-GERADO-PELO-GITHUB
-
----
-
 ## 📝 Sobre o Projeto
 Este projeto faz parte do desafio **"Natural ou Fake Naty?"** da **DIO**, onde o objetivo é explorar as fronteiras da Inteligência Artificial Generativa. Como embaixadora da plataforma, decidi criar um clone digital realista para demonstrar o poder das mídias sintéticas aplicadas à marca pessoal e à educação tech.
 
